@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 Anything between a less than exclamation point dash dash, as you see at the top here, and dash dash greater than, as you see right below here, will be treated as a comment, and thus not appear in the display. This can be super handy to try things and turn them on and off while you experiment by removing the two things.
 -->
 
-You can have as many as you want.
-
-
 # PennyQueen-PQ
 Welcome to the PennyQueen home on GitHub!
+
+<!--
+You can have as many as you want, wherever you want.
+-->
