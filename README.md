@@ -1,2 +1,2 @@
 # PennyQueen-PQ
-This is the GitHub home for PennyQueen.
+Welcome to the PennyQueen home on GitHub!
