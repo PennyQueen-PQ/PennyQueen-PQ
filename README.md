@@ -28,6 +28,11 @@ Welcome to the PennyQueen home on GitHub!
 You can have as many as you want, wherever you want.
 -->
 
+### Contents
+
+- [Investment Philosophy](#the-penny-queen-investment-philosophy)
+- [External Links](#where-can-i-find-pennyqueen)
+
 ### The Penny Queen investment philosophy
 
 I look for companies that are undervalued, generally unknown and possess disruptive or innovative technology that improves the world in some way.  Ideally, I find them before their first big move, but I am happy to get in on the second or third wave if it still makes sense.  Because of this, many of my favorite stocks are still trading on the OTC or the Canadian equivalent the CSE.  I believe in doing a deep dive into the technology of any company I invest in, I speak to executives, explore the current and potential financial situation and I tell everyone who will listen when I find something amazing.
